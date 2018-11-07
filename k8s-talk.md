@@ -2,6 +2,7 @@
  * [general structure](https://kubernetes.io/images/blog/2018-06-05-11-ways-not-to-get-hacked/kubernetes-control-plane.png)
  * API server, APIs
  * kubectl
+ * compared to docker / swarm
 
 ## setting up a cluster
  * the hard way
