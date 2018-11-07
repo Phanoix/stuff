@@ -1,5 +1,5 @@
 ## k8s itself
- * general structure
+ * [general structure](https://kubernetes.io/images/blog/2018-06-05-11-ways-not-to-get-hacked/kubernetes-control-plane.png)
  * API server, APIs
  * kubectl
 
