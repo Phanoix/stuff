@@ -15,4 +15,5 @@
  * persistence - configMaps, secrets, PVs
  * deploying with kubectl
  * helm
+ * RBAC
  * automation
