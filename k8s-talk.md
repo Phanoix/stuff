@@ -1,5 +1,6 @@
 ## k8s itself
  * [general structure](https://kubernetes.io/images/blog/2018-06-05-11-ways-not-to-get-hacked/kubernetes-control-plane.png)
+ * containers, pods, deployments, services, etc
  * API server, APIs
  * kubectl
  * compared to docker / swarm
@@ -12,7 +13,6 @@
  * [the easy way](https://www.youtube.com/watch?v=kOa_llowQ1c)
 
 ## using k8s - mostly overview, in-depth left for a workshop - like thing
- * containers, pods, deployments, services, etc
  * persistence - configMaps, secrets, PVs
  * deploying with kubectl
  * yaml
