@@ -17,4 +17,5 @@
  * deploying with kubectl
  * helm
  * RBAC
+ * hpa / vpa / autoscaling
  * automation
