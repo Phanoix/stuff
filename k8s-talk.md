@@ -5,13 +5,13 @@
  * compared to docker / swarm
 
 ## setting up a cluster
- * the hard way
+ * [the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
  * kubeadm, kubespray, kops, etc.
  * local (minikube, etc)
  * cloud / managed services
  * the easy way
 
-## using k8s - mostly overview, in-depth left for the workshop
+## using k8s - mostly overview, in-depth left for a workshop - like thing
  * containers, pods, deployments, services, etc
  * persistence - configMaps, secrets, PVs
  * deploying with kubectl
