@@ -9,12 +9,13 @@
  * kubeadm, kubespray, kops, etc.
  * local (minikube, etc)
  * cloud / managed services
- * the easy way
+ * [the easy way](https://www.youtube.com/watch?v=kOa_llowQ1c)
 
 ## using k8s - mostly overview, in-depth left for a workshop - like thing
  * containers, pods, deployments, services, etc
  * persistence - configMaps, secrets, PVs
  * deploying with kubectl
+ * yaml
  * helm
  * RBAC
  * hpa / vpa / autoscaling
