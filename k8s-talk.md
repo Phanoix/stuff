@@ -11,7 +11,7 @@
  * cloud / managed services
  * the easy way
 
-## using k8s - most will be left for the workshop
+## using k8s - mostly overview, in-depth left for the workshop
  * containers, pods, deployments, services, etc
  * persistence - configMaps, secrets, PVs
  * deploying with kubectl
