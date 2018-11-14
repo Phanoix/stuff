@@ -1,5 +1,6 @@
 ## k8s itself
  * [general structure](https://kubernetes.io/images/blog/2018-06-05-11-ways-not-to-get-hacked/kubernetes-control-plane.png)
+   * https://kubernetes.io/docs/concepts/overview/components/
  * containers, pods, deployments, services, etc
  * API server, APIs
  * kubectl
@@ -15,8 +16,9 @@
 ## using k8s - mostly overview, in-depth left for a workshop - like thing
  * persistence - configMaps, secrets, PVs
  * deploying with kubectl
- * yaml
- * helm
+ * [yaml](https://github.com/gctools-outilsgc/Kubernetes-config)
+ * [helm](https://github.com/helm/charts/tree/master/stable)
+   * https://github.com/gctools-outilsgc/helm-charts
  * RBAC
  * hpa / vpa / autoscaling
  * automation
