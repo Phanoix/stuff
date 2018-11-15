@@ -23,3 +23,4 @@
  * RBAC
  * hpa / vpa / autoscaling
  * automation
+ * dashboard
