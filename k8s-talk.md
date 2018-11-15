@@ -21,6 +21,6 @@
    * https://github.com/gctools-outilsgc/helm-charts
    * [random example](https://asciinema.org/a/163484) with a jenkins deployment
  * RBAC
- * hpa / vpa / autoscaling
+ * hpa / vpa / cluster autoscaling
  * automation
  * dashboard
