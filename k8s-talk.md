@@ -19,6 +19,7 @@
  * [yaml](https://github.com/gctools-outilsgc/Kubernetes-config)
  * [helm](https://github.com/helm/charts/tree/master/stable)
    * https://github.com/gctools-outilsgc/helm-charts
+   * [random example](https://asciinema.org/a/163484) with a jenkins deployment
  * RBAC
  * hpa / vpa / autoscaling
  * automation
