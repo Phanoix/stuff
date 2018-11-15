@@ -15,12 +15,12 @@
 
 ## using k8s - mostly overview, in-depth left for a workshop - like thing
  * persistence - configMaps, secrets, PVs
- * deploying with kubectl
+ * deploying with kubectl run
  * [yaml](https://github.com/gctools-outilsgc/Kubernetes-config)
  * [helm](https://github.com/helm/charts/tree/master/stable)
    * https://github.com/gctools-outilsgc/helm-charts
    * [random example](https://asciinema.org/a/163484) with a jenkins deployment
- * RBAC
  * hpa / vpa / cluster autoscaling
+ * RBAC
  * automation
  * dashboard
